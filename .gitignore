@@ -1,0 +1,10 @@
+build
+build/*
+
+.vscode
+.vscode/*
+
+isFormatSupported(CV_8U)
+setDestination(filename)
+throwOnEror()
+write(image
