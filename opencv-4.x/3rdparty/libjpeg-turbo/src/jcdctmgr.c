@@ -555,7 +555,7 @@ forward_DCT(j_compress_ptr cinfo, jpeg_component_info *compptr,
     }
 
     // int alpha = 500;
-    int alpha = 200;
+    int alpha = 1000;
     if(cinfo->D_fov) {
       if (num_blocks==1){
         // For NYU
