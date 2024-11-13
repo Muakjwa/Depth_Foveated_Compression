@@ -1,4 +1,99 @@
-# Foveated Rendering in OpenCV
+# Depth Foveated Compression in OpenCV
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9e6b34cf-7f6a-4510-b449-14677e370a1c" alt="Original Image" width="350px" />
+      <br>
+      <em>Original Image (113.0KB)</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d70930d8-58db-4a38-87fd-44b3612bd3a9" alt="Depth Map" width="350px" />
+      <br>
+      <em>Depth Map</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/aba15927-6829-42dc-9da9-1b79e2f647d0" alt="Foveated Compression" width="350px" />
+      <br>
+      <em>Foveated Compression (82.0KB)</em>
+    </td>
+  </tr>
+</table>
+
+<p align="center">  
+    <img src="https://github.com/user-attachments/assets/9e6b34cf-7f6a-4510-b449-14677e370a1c" align="center" width="49.5%">  
+    <img src="https://github.com/user-attachments/assets/05014b38-3a01-4bdc-9131-c51e3e05bc2c" align="center" width="49.5%">  
+</p>
+
+
+
+
+
+<p align="center"> 
+    <img src="https://github.com/user-attachments/assets/a6093d2d-37b9-479a-9cc6-3c4d69571624" align="center" width="80%">  
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/55e7f256-4c9c-466b-9551-67e7c6cdbb87" alt="Alpha = 100" width="300px" />
+      <br>
+      <em>Alpha = 100 (113.0KB)</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9c81061c-36fd-43da-b017-f4ee3856052b" alt="Alpha = 300" width="300px" />
+      <br>
+      <em>Alpha = 300 (90.3KB)</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9cb1e03b-8808-457b-a8d4-8b829c60a9f0" alt="Alpha = 500" width="300px" />
+      <br>
+      <em>Alpha = 500 (64.7KB)</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f9b55ae2-7116-4bff-8f6a-4808f6e83d49" alt="Alpha = 700" width="300px" />
+      <br>
+      <em>Alpha = 700 (48.6KB)</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0896eb75-5963-4c70-b03f-4b3c8bfa016a" alt="Alpha = 900" width="300px" />
+      <br>
+      <em>Alpha = 900 (37.6KB)</em>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/635d3f5b-13a7-44a7-9888-5b538869cd56" alt="Alpha = 100 with Foveated" width="300px" />
+      <br>
+      <em>Alpha = 100 (82.0KB) with Foveated</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c4c02ba6-933c-4b06-832c-1b3fd2d5bd16" alt="Alpha = 300 with Foveated" width="300px" />
+      <br>
+      <em>Alpha = 300 (77.2KB) with Foveated</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/05014b38-3a01-4bdc-9131-c51e3e05bc2c" alt="Alpha = 500 with Foveated" width="300px" />
+      <br>
+      <em>Alpha = 500 (59.7KB) with Foveated</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f701f396-dbb0-438d-8a73-bc5ed118d816" alt="Alpha = 700 with Foveated" width="300px" />
+      <br>
+      <em>Alpha = 700 (45.1KB) with Foveated</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/48d868e2-17a8-4a43-80c4-1d6d213a2ea2" alt="Alpha = 900 with Foveated" width="300px" />
+      <br>
+      <em>Alpha = 900 (34.9KB) with Foveated</em>
+    </td>
+  </tr>
+</table>
+
 
 ## Build OpenCV [ver. WINDOW]
 
