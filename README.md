@@ -28,7 +28,7 @@
       <em>Original Image (113.0KB)</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/aba15927-6829-42dc-9da9-1b79e2f647d0" alt="Foveated Compression" width="500px" />
+      <img src="https://github.com/user-attachments/assets/05014b38-3a01-4bdc-9131-c51e3e05bc2c" alt="Foveated Compression" width="500px" />
       <br>
       <em>Depth Foveated Compression α=500 (59.7KB)</em>
     </td>
